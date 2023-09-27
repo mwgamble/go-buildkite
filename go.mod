@@ -1,4 +1,4 @@
-module github.com/buildkite/go-buildkite/v3
+module github.com/mwgamble/go-buildkite/v3
 
 go 1.20
 
